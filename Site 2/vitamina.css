@@ -1,0 +1,59 @@
+h1{
+    text-align: center;
+    border: 2px solid #ffd1ff;
+    border-radius: 30px;
+    color:#f585f5;
+    font-family: cursive;
+}
+
+body{
+    background-color: #fff9ff;
+}
+
+h3{
+    position: relative;
+    left: 20px;
+    color: #f585f5;
+}
+
+a{
+    margin-right: 20px;
+    position: relative;
+    left: 20px;
+    color: #f585f5;
+}
+
+.vitamina{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 20px;
+}
+
+img{
+    width: 450px;
+    margin-top: 100px;
+    margin-left: 18px;
+    border: 5px solid antiquewhite;
+}
+nav{
+    position: relative;
+    top: 130px;
+    margin-left: 8px;
+}
+
+button{
+    cursor: pointer;
+    color: white;
+    background-color: darksalmon;
+    border: solid antiquewhite;
+}
+
+#banana{
+    position: relative;
+    left: 20px;
+}
+
+#ViBanana{
+    position: relative;
+    left: 25px;
+}

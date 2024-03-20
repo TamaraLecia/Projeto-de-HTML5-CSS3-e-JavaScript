@@ -1,0 +1,134 @@
+.cerveja{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 150px;
+    position: relative;
+    bottom: 95px;
+}
+
+body{
+    background-color: #b9eff9;
+}
+
+button{
+    cursor: pointer;
+    background-color: #8eddff;
+    border-radius: 8px;
+    font-size: 15px;
+}
+
+h1{
+    text-align: center;
+    position: relative;
+    right: 10px;
+    top: 20px;
+    font-family: serif;
+    color: #137caa;
+    border: 5px solid #8eddff;
+    border-radius: 30px;
+    font-family: cursive;
+}
+
+h3{
+    position: relative;
+    top: 15px;
+    left: 20px;
+    color: #137caa;
+}
+
+a{
+    margin-right: 20px;
+    position: relative;
+    left: 20px;
+    color: #137caa;
+}
+
+img{
+    width: 500px;
+    height: 500px;
+    border: 5px solid #63d3ff;
+}
+#itaipava{
+    width: 300px;
+    height: 500px;
+    position: relative;
+    left: 200px;
+    bottom:176px;
+    top: -1px;
+}
+
+#cervitaipava{
+    position: relative;
+    left: 215px;
+}
+
+#local{
+    width: 300px;
+    height: 500px;
+    position: relative;
+    top: 120px;
+    right: 50px;
+}
+
+#imgSkol{
+    width: 300px;
+    height: 500px;
+    position: relative;
+    right: 50px;
+}
+
+#skol{
+    position: relative;
+    right: 30px;
+    top: 10px;
+}
+
+#brahma{
+    width: 300px;
+    height: 500px;
+    position: relative;
+    right: 50px;
+    top: 80px
+}
+
+#cervbrahma{
+    position: relative;
+    left: -30px;
+    top: 90px;
+}
+
+#heineken{
+    width: 300px;
+    height: 505px;
+    position: relative;
+    top: 75px;
+    left: 180px;
+}
+
+#cervheineken{
+    position: relative;
+    position: absolute;
+    left: 925px;
+    top: 590px;
+}
+
+#cervlocal{
+    position: relative;
+    right: 30px;
+    top: 125px;
+}
+
+#subzero{
+    width: 300px;
+    height: 501px;
+    position: relative;
+    left: 205px;
+    top: 120px;
+}
+
+#cervsubzero{
+    position: relative;
+    top: 125px;
+    left: 220px;
+}
+
